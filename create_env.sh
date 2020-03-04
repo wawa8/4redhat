@@ -1,6 +1,6 @@
 #!/bin/bash 
-TOWER_GUID=46f9
-OSP_GUID=3ace
+TOWER_GUID=a7ad
+OSP_GUID=0f3c
 OPENTLC_LOGIN=maciej.wawrzyniak-atos.net
 OPENTLC_PASSWORD=8wawa888W
 GITHUB_REPO=https://github.com/wawa8/ansible_advance_homework
